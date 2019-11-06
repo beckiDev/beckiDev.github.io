@@ -9,7 +9,7 @@ class Chatroom extends Component {
 
     this.state = {
       chatHistory,
-      input: ''
+      input: 'test'
     }
 
     this.updateChatHistory = this.updateChatHistory.bind(this)
