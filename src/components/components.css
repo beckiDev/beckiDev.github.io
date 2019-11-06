@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex ;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wrapper > * {
+  padding: 10px;
+  margin: 10px;
+}
+.chat_messages {
+  text-align: left;
+  background: #F8F9FA;
+  width: 300vh;;
+}
+
+.chat_users {
+  width: 55vh;
+  background: lightgreen;
+}
+.message {
+  padding: 10px;
+  width: 400px;
+}
+.guest_message {
+  margin-left: 50px;
+}
+
+
+body {
+  padding: 2em;
+}

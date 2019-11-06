@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "becki",
+        "email": "becki@email.com",
+        "password": "qwer1234"
+      },
+      {
+        "id": 2,
+        "name": "traction_admin",
+        "email": "admin@email.com",
+        "password": "admin"
+      }
+    ]
+  }
