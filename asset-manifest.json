@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/beckiDev/react-app/static/css/main.d3e508b7.chunk.css",
+    "main.js": "/beckiDev/react-app/static/js/main.f7763eef.chunk.js",
+    "main.js.map": "/beckiDev/react-app/static/js/main.f7763eef.chunk.js.map",
+    "runtime-main.js": "/beckiDev/react-app/static/js/runtime-main.6e752501.js",
+    "runtime-main.js.map": "/beckiDev/react-app/static/js/runtime-main.6e752501.js.map",
+    "static/css/2.833dd627.chunk.css": "/beckiDev/react-app/static/css/2.833dd627.chunk.css",
+    "static/js/2.e2e19748.chunk.js": "/beckiDev/react-app/static/js/2.e2e19748.chunk.js",
+    "static/js/2.e2e19748.chunk.js.map": "/beckiDev/react-app/static/js/2.e2e19748.chunk.js.map",
+    "index.html": "/beckiDev/react-app/index.html",
+    "precache-manifest.f4f2cb8eeb19d45468caae8e173131cf.js": "/beckiDev/react-app/precache-manifest.f4f2cb8eeb19d45468caae8e173131cf.js",
+    "service-worker.js": "/beckiDev/react-app/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/beckiDev/react-app/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.d3e508b7.chunk.css.map": "/beckiDev/react-app/static/css/main.d3e508b7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e752501.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.e2e19748.chunk.js",
+    "static/css/main.d3e508b7.chunk.css",
+    "static/js/main.f7763eef.chunk.js"
+  ]
+}
